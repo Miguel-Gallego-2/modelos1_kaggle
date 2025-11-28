@@ -13,3 +13,5 @@
 - **Programa:** Ingeniería de sistemas
 #
 **Link Video entrega 02 - preprocesado:** https://youtu.be/1QaR0PrggLU
+#
+**Link Video entrega Final - EntrenamientoDelModelo:** https://youtu.be/ULhxNTsOu78
